@@ -61,4 +61,3 @@ cd /root
 mkdir nulink
 
 echo '=============== SETUP FINISHED ==================='
-echo -e 'To check logs: \e[1m\e[32m Complete cat\e[0m'
